@@ -66,6 +66,10 @@ header a:hover{
   color: rgba(112,123,126,1);
 }
 
+#featured img {
+  margin: 20px auto;
+}
+
 #featured a {
   color: rgb(28,113,173);
   text-decoration: none;
