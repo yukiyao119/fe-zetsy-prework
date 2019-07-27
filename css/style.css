@@ -82,5 +82,5 @@ header a:hover{
 
 /* LAYOUT */
 footer {
-  float: right;
+  text-align: right;
 }
