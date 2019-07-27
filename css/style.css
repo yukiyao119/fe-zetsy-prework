@@ -71,6 +71,10 @@ header a:hover{
   text-decoration: none;
 }
 
+#featured a:hover {
+  text-decoration: underline;
+}
+
 #press{
   
 }
