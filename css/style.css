@@ -37,11 +37,13 @@ h1 {
 h2 {
   font-size: 2em;
   color: rgba(112,123,126,1);
+  font-family: 'Baskerville', serif;
 }
 
 p {
   font-size: 1em;
-  color: rgb(67,67,67)
+  color: rgb(67,67,67);
+  font-family: 'Baskerville', serif;
 }
 
 .small {
