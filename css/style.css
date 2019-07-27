@@ -21,6 +21,10 @@ body {
 	padding: 0 45px 20px;
 }
 
+div {
+  box-sizing: border-box;
+}
+
 h1 {
   padding: 10px;
   font-size: 80px;
