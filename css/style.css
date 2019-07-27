@@ -36,7 +36,7 @@ h1 {
 
 h2 {
   font-size: 2em;
-  color: rgba(122,143,136,1);
+  color: rgba(112,123,126,1);
 }
 
 p {
@@ -62,7 +62,7 @@ header a {
 }
 
 header a:hover{
-  color: rgba(122,143,136,1);
+  color: rgba(112,123,126,1);
 }
 
 #featured {
