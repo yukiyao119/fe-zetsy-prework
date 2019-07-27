@@ -68,6 +68,7 @@ header a:hover{
 
 #featured img {
   margin: 0 auto;
+  border: 5px solid rgb(193,193,193);
 }
 
 #featured a {
