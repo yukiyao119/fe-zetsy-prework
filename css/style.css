@@ -76,8 +76,7 @@ header a:hover{
 }
 
 #press{
-  border: 5px;
-  border-color: rgb(193,193,193);
+  border: 5px; solid rgb(193,193,193);
 }
 
 
